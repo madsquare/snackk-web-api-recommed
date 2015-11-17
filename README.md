@@ -1,2 +1,2 @@
-# snackk-web-api-recommed
+# snackk-web-api-recommend
 create recommend repository!
